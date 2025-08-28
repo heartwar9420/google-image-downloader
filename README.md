@@ -60,16 +60,7 @@ search_query = "布偶貓"
 
 ##  範例
 
-執行後會在 `cats_img/` 資料夾中看到類似這樣的圖片：
-
-```
-cat000.jpg
-cat001.jpg
-cat002.jpg
-...
-```
-
----
+![範例](assets/google-image-downloader.jpg)
 
 ## 授權
 
